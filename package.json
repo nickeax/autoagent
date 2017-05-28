@@ -1,0 +1,23 @@
+{
+  "name": "autoagent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickeax/autoagent.git"
+  },
+  "author": "Nick Fletcher",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickeax/autoagent/issues"
+  },
+  "homepage": "https://github.com/nickeax/autoagent#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
